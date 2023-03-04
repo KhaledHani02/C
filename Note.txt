@@ -1,0 +1,22 @@
+Comandi per aggiungere un db:
+si va su strumenti-gestione pacchetti nuget-console di gestione pacchetti poi si eseguono i seguenti comandi :
+*add-migration name=>aggiunge uno scritp per le tabelle che abbiamo(con classi già precedentemente create), anche per aggiurnare la tabella.
+*update-database=>per aggiunger le tabelle con gli script già creati.
+
+
+
+
+
+file inclusi:
+CSS
+<link rel-"stylesheet" href-"https://cdn.datatables.net/1.10.16/css/jquery. dataTables.min.css"/>
+<link rel-"stylesheet" href-"https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css/>
+<link rel-"stylesheet" href-"https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"/>
+
+
+
+JS:
+<script src-"https://cdn.datatables.net/1.10.16/is/jquery.dataTables.min.is"></script>
+<script src-"https://cdnjs.cloudflare.com/ajax/libs/jqueryul/1.12.1/jquery-ul.min.js"></script> 
+<script type-"text/javascript" src-"https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script> 
+<script type-"text/javascript" src-"https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
